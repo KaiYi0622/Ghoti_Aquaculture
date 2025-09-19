@@ -10,7 +10,7 @@ Note: Kindly download the dashboard in .pbix for a better responsive illustratio
 ![Sales_Information](images/Sales_Information.png)
 
 ### 2.0 Sales Performance
-![Sales_Performance](images/Sales_Performance.png)
+![Sales_Analysis](images/Sales_Analysis.png)
 
 ### 3.0 Market Information
 ![Market_Information](images/Market_Information.png)
